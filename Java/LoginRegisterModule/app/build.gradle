@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.helloworld'
+    namespace 'com.example.loginregistermodule'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.helloworld"
-        minSdk 23
+        applicationId "com.example.loginregistermodule"
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"

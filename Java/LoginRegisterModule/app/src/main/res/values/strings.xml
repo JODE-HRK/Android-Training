@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login Register Module</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="ready_to_register">Ready To Register?</string>
+    <string name="ready_to_login">Ready To Login</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+</resources>
